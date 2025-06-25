@@ -1,2 +1,1 @@
-# Projeto-Grafo
-O projeto simula a malha aérea brasileira usando grafos com matriz de adjacência, permitindo o cadastro de aeroportos e voos.
+Este projeto tem como objetivo aplicar os conceitos de grafos por meio da implementação de uma estrutura de dados com matriz de adjacência. O programa simula a malha aérea brasileira, permitindo o cadastro de aeroportos e voos entre eles, de forma dinâmica e interativa.
